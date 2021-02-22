@@ -1,17 +1,15 @@
 ## Hi I'm Siddhesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
 <br />
+### Studying Master's in Computer Science. <br />@Trinity College Dublin.
 
-#### Studying Master's in Computer Science. <br />@Trinity College Dublin.
+![code](https://user-images.githubusercontent.com/22409980/108768484-9a81dc00-754f-11eb-96b0-98d890ab4776.gif)
 
 ## Contact Me
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kankekas@tcd.ie)
 
 ## Languages
-
 ## Tools, Libraries, and Frameworks
-
 <br />
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
