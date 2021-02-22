@@ -42,7 +42,6 @@
 
 <!-- [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain) -->
 
-<!-- - :paperclip: [My Resume/CV](https://github.com/.pdf) -->
 
 #### Profile Visits
 
@@ -60,7 +59,6 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/siddhesh21/github-readme-stats)
