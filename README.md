@@ -68,8 +68,6 @@ Other        43 mins         ▒░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/siddhesh21/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/siddhesh21/github-readme-stats)
-
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
