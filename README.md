@@ -1,9 +1,9 @@
 ## Hi I'm Siddhesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ### Studying Master's in Computer Science. <br />
-<img src="https://www.virtualeducationexpo.ie/wp-content/uploads/2020/06/Trinity_Main_Logo.jpg" width="350px" alt="TCD">
+<img src="https://www.virtualeducationexpo.ie/wp-content/uploads/2020/06/Trinity_Main_Logo.jpg" width="250px" alt="TCD">
 <br />
-<img src = "https://user-images.githubusercontent.com/22409980/108768484-9a81dc00-754f-11eb-96b0-98d890ab4776.gif" width="700px">
+<img src = "https://user-images.githubusercontent.com/22409980/108768484-9a81dc00-754f-11eb-96b0-98d890ab4776.gif" width="500px">
 
 ## Contact Me
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kankekas@tcd.ie)
