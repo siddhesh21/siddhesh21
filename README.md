@@ -6,7 +6,10 @@
 <p align="center"> <img src = "https://user-images.githubusercontent.com/22409980/108768484-9a81dc00-754f-11eb-96b0-98d890ab4776.gif" width="500px"> </p>
 
 ## Contact Me
+
+
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kankekas@tcd.ie)
+
 
 ## Languages
 ## Tools, Libraries, and Frameworks
