@@ -61,9 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 17 mins   █████████████████░░░░░░░░   68.50 % 
-Markdown     48 mins         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Other        14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
