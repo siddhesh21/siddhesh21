@@ -1,4 +1,5 @@
-## Hi I'm Siddhesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi, I'm Siddhesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Welcome to my Technical skills Profile.
 
 ### Master's in Computer Science: Intelligent Systems @Trinity College Dublin. <br />
 <p align="center"> <img src="https://trinitybotanicgarden.ie/wp-content/uploads/2020/02/Trinity_Black_Logo.png" width="450px" alt="TCD"> </p>
