@@ -3,7 +3,7 @@
 ### Master's in Computer Science: Intelligent Systems @Trinity College Dublin. <br />
 <p align="center"> <img src="https://trinitybotanicgarden.ie/wp-content/uploads/2020/02/Trinity_Black_Logo.png" width="450px" alt="TCD"> </p>
 <br />
-<p align="center"> <img src = "https://user-images.githubusercontent.com/22409980/108768484-9a81dc00-754f-11eb-96b0-98d890ab4776.gif" width="500px"> </p>
+<p align="center"> <img src = "https://user-images.githubusercontent.com/22409980/108768484-9a81dc00-754f-11eb-96b0-98d890ab4776.gif" width="720px"> </p>
 
 ## Contact Me
 
